@@ -17,7 +17,6 @@ n = 6 : ABAABABAABAABABAABABA
 n = 7 : ABAABABAABAABABAABABAABAABABAABAAB
 
 
-
 n=0:               A             start (axiom/initiator)
                   / \
 n=1:             A   B           the initial single A spawned into AB by rule (A → AB), rule (B → A) couldn't be applied
